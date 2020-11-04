@@ -1,4 +1,10 @@
-### Hi there 👋
+### `@tallamjr`
+
+Hello
+
+![](https://imgs.xkcd.com/comics/astrophysics.png)
+![](https://imgs.xkcd.com/comics/machine_learning.png)
+
 
 <!--
 **tallamjr/tallamjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
