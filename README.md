@@ -21,12 +21,15 @@ Outside of academic hours, I enjoy exploring how these techniques, as well as la
 **Learned Image Compression** 🗜️, can be used in **Embedded Systems** for **Embedded Machine Learning
 (#TinyML)** 📱
 
-![](https://imgs.xkcd.com/comics/machine_learning.png)
+<a href="">
+  <img align="center" src="https://imgs.xkcd.com/comics/machine_learning.png" />
+</a>
 
 <!--
 **tallamjr/tallamjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tallamjr&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://imgs.xkcd.com/comics/machine_learning.png)
 ![](http://www.tarekallamjr.com/blog/img/about/profile-pic-smile-square-crop.jpg)
 
 <a href="http://www.tarekallamjr.com/blog/img/about/profile-pic-smile-square-crop.jpg">
