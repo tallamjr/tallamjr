@@ -19,7 +19,7 @@ I am a fourth year PhD student at the Centre for Data Intensive Science at Unive
 classification of Astronomical transient events.
 
 Outside of academic hours, I enjoy exploring how these techniques, as well as latest developments in
-learned data compression, can be used in **Embedded Systems** for **Embedded Machine Learning
+**Learned Image Compression** 🗜️, can be used in **Embedded Systems** for **Embedded Machine Learning
 (#TinyML)** 📱
 
 ![](https://imgs.xkcd.com/comics/machine_learning.png)
