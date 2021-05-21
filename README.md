@@ -1,4 +1,9 @@
 ## `@tallamjr`
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=tallamjr&theme=nord" /> -->
+  <img align="right" src="http://www.tarekallamjr.com/blog/img/about/profile-pic-smile-square-crop.jpg" />
+</a>
 
 #### About Me
 
@@ -7,12 +12,6 @@ My name is [Tarek](www.tarekallamjr.com)
 - 🔭 I’m currently working on [time-series classification algorithms](https://arxiv.org/pdf/2105.06178)
 - 🌱 I’m currently learning [probabilistic machine learning for data compression](https://robamler.github.io/teaching/compress21/) and [image processing](https://www.youtube.com/playlist?list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3)
 - ⚡ I'm currently playing with [embedded `rust`](https://knurling.ferrous-systems.com/sessions/) and [`jax`](https://github.com/google/jax)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=tallamjr&theme=nord" /> -->
-  <img align="right" src="http://www.tarekallamjr.com/blog/img/about/profile-pic-smile-square-crop.jpg" />
-</a>
 
 I am a fourth year PhD student at the Centre for Data Intensive Science at University College London
 (UCL). My research focus is on the application of **Deep Learning** algorithms for real-time
