@@ -22,7 +22,7 @@ Outside of academic hours, I enjoy exploring how these techniques, as well as la
 (#TinyML)** 📱
 
 <a href="">
-  <img align="center" src="https://imgs.xkcd.com/comics/machine_learning.png" />
+  <img align="middle" src="https://imgs.xkcd.com/comics/machine_learning.png" />
 </a>
 
 <!--
