@@ -19,8 +19,8 @@ classification of Astronomical transient events.
 
 Besides my doctoral research, I enjoy exploring how latest techniques in statistical signal processing and
 probabilistic machine learning can be used for **Learned Image Reconstruction** and
-**Learned Image Compression** 🗜️ in **Embedded Systems** for **Embedded Machine Learning
-(#TinyML)** 📱
+**Learned Image Compression** 🗜️ in <br>
+**Embedded Systems** for **Embedded Machine Learning (#TinyML)** 📱
 
 <a href="">
   <img align="middle" src="https://imgs.xkcd.com/comics/machine_learning.png" />
