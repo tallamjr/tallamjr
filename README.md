@@ -1,8 +1,7 @@
 ## `@tallamjr`
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=tallamjr&theme=nord" /> -->
-  <img align="right" src="http://www.tarekallamjr.com/blog/img/about/profile-pic-smile-square-crop.jpg" />
+  <img align="right" src="https://pbs.twimg.com/profile_images/1188401554237411329/2xKHctt5_400x400.jpg" />
 </a>
 
 #### About Me
