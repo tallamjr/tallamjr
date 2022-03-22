@@ -6,7 +6,7 @@
 
 #### About Me
 
-My name is [Tarek](www.tarekallamjr.com)
+My name is [Tarek](https://www.tarekallamjr.com)
 
 - 🔭 I’m currently working on [time-series classification](https://arxiv.org/pdf/2105.06178)
 - 🌱 I’m currently learning [probabilistic machine learning for data compression](https://robamler.github.io/teaching/compress21/) and [image processing](https://www.youtube.com/playlist?list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3)
