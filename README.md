@@ -21,9 +21,9 @@ probabilistic machine learning can be used for **Learned Image Reconstruction** 
 **Learned Image Compression** 🗜️ in <br>
 **Embedded Systems** for **Embedded Machine Learning (#TinyML)** 📱
 
-<a href="">
-  <img align="middle" src="https://imgs.xkcd.com/comics/machine_learning.png" />
-</a>
+<!-- <a href=""> -->
+<!--   <img align="middle" src="https://imgs.xkcd.com/comics/machine_learning.png" /> -->
+<!-- </a> -->
 
 <!--
 **tallamjr/tallamjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
