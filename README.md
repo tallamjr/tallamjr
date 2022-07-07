@@ -12,14 +12,15 @@ My name is [Tarek](https://www.tarekallamjr.com)
 - 🌱 I’m currently learning [probabilistic machine learning for data compression](https://robamler.github.io/teaching/compress21/) and [image processing](https://www.youtube.com/playlist?list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3)
 - ⚡ I'm currently playing with [embedded `rust`](https://knurling.ferrous-systems.com/sessions/) and [`jax`](https://github.com/google/jax)
 
-I am a fourth year PhD student at the Centre for Data Intensive Science at University College London
-(UCL). My research focus is on the application of **Deep Learning** algorithms for real-time
-classification of Astronomical transient events.
+I am a final year PhD student at the Centre for Data Intensive Science at University College London
+(UCL). My research focus is on the development of efficient [**Deep
+Learning**](https://en.wikipedia.org/wiki/Deep_learning) algorithms for real-time classification of
+Astronomical transient events.
 
-Besides my doctoral research, I enjoy exploring how latest techniques in statistical signal processing and
-probabilistic machine learning can be used for **Learned Image Reconstruction** and
-**Learned Image Compression** 🗜️ in <br>
-**Embedded Systems** for **Embedded Machine Learning (#TinyML)** 📱
+Besides my doctoral research, I enjoy exploring how latest techniques in statistical signal
+processing and probabilistic machine learning can be used for **Learned Image Reconstruction** and
+**Learned Image Compression** 🗜️ in <br> **Embedded Systems** for **Embedded Machine Learning
+(#TinyML)** 📱
 
 <!-- <a href=""> -->
 <!--   <img align="middle" src="https://imgs.xkcd.com/comics/machine_learning.png" /> -->
