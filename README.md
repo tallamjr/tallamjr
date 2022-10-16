@@ -1,10 +1,8 @@
 ## `@tallamjr`
 <a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right"
-  src="https://pbs.twimg.com/profile_images/1188401554237411329/2xKHctt5_400x400.jpg"
-  style="border-radius: 50%"
-/></a>
+  <img align="right" src="https://pbs.twimg.com/profile_images/1188401554237411329/2xKHctt5_400x400.jpg" style="border-radius: 50%"/>
+</a>
 
 #### About Me
 
