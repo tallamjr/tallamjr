@@ -10,7 +10,7 @@ My name is [Tarek](https://www.tarekallamjr.com)
 
 - 🔭 I’m currently working on [time-series classification](https://arxiv.org/pdf/2105.06178) and [deep learning deployment through model compression](https://arxiv.org/pdf/2303.08951.pdf)
 - 🌱 I’m currently learning [probabilistic machine learning for data compression](https://robamler.github.io/teaching/compress21/) and [image processing](https://www.youtube.com/playlist?list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3)
-- ⚡ I'm currently playing with [embedded `rust`](https://knurling.ferrous-systems.com/sessions/) and [`jax`](https://github.com/google/jax)
+- ⚡ I'm currently playing with [embedded `rust`](https://knurling.ferrous-systems.com/sessions/), [`jax`](https://github.com/google/jax) and [`polars`](https://pola-rs.github.io/polars-book/user-guide/)
 
 I am a final year PhD student at the Centre for Data Intensive Science at University College London
 (UCL). My research focus is on the development of efficient [**Deep
