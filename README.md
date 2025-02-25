@@ -18,4 +18,4 @@ Machine Learning (#tinyML)** 📱
 - ⚡ I'm currently playing with [embedded `rust`](https://knurling.ferrous-systems.com/sessions/) for new embedded projects and continuing playing with [`polars`](https://pola-rs.github.io/polars-book/user-guide/) for all my big-data processing problems.
 - 🔭 In a past life, I worked on [time-series classification](https://arxiv.org/pdf/2105.06178) and [deep learning deployment through model compression](https://arxiv.org/pdf/2303.08951.pdf) for problems in Astrophysics.
 
-[![HitCount](http://hits.dwyl.com/tallamjr/tallamjr.svg)](http://hits.dwyl.com/tallamjr/tallamjr)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D3EC8&title_bg=%23555555&icon=grav.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/tallamjr/)
