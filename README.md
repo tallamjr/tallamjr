@@ -1,8 +1,8 @@
 ## `@tallamjr`
 
-<a href="#">
-  <img align="right" src="https://pbs.twimg.com/profile_images/1188401554237411329/2xKHctt5_400x400.jpg" style="border-radius: 50%"/>
-</a>
+<!-- <a href="#"> -->
+<!--   <img align="right" src="https://pbs.twimg.com/profile_images/1188401554237411329/2xKHctt5_400x400.jpg" style="border-radius: 50%"/> -->
+<!-- </a> -->
 
 ### About Me
 
